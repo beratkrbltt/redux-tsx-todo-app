@@ -28,3 +28,21 @@ A simple yet powerful To-Do application built using **React**, **Redux Toolkit**
 - **CSS Modules** 🎨
 
 ---
+
+## 🚀 How to Run the Project
+1. Extract the file from the ZIP archive.
+
+2. Navigate to the project directory:
+   ```bash
+   cd TodoApp
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
