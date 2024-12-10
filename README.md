@@ -15,8 +15,8 @@ A simple yet powerful To-Do application built using **React**, **Redux**, and **
 
 ## 📸 Preview
 
-![1](İmage/1.png)
-![2](İmage/2.png)
+![1](image/1.png)
+![2](image/2.png)
 
 ---
 
