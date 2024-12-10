@@ -1,6 +1,6 @@
 # 📝 React Redux Toolkit + TypeScript To-Do App
 
-A simple yet powerful To-Do application built using **React**, **Redux**, and **TypeScript**. Manage your tasks efficiently with state management powered by Redux!
+A simple yet powerful To-Do application built using **React**, **Redux Toolkit**, and **TypeScript**. Manage your tasks efficiently with state management powered by Redux Toolkit!
 
 ---
 
